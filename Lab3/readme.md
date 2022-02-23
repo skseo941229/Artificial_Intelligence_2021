@@ -1,4 +1,4 @@
-This program is a Markov process solver. 
+Markov Process Solver
 
 To execute the program :
 python3 lab3.py [--df $discount_factor] [--min] [--iter $iteration] [--tol $tolerance] inputfile.txt
